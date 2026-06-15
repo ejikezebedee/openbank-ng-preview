@@ -2,7 +2,11 @@
 
 ## Request Source Access
 
-To request full source access or a custom commercial deal, send:
+To request full source access or a custom commercial deal, open the GitHub deal-request form:
+
+https://github.com/ejikezebedee/openbank-ng-preview/issues/new?template=deal-request.yml
+
+Prepare:
 
 - Buyer name.
 - Company name.
@@ -14,6 +18,7 @@ To request full source access or a custom commercial deal, send:
 - Budget range.
 - Required support.
 - Whether licensed providers are already selected.
+- GitHub username or organization for private access after payment and license approval.
 
 ## Recommended Packages
 
@@ -39,6 +44,7 @@ Best for buyers who need deeper diligence support, implementation planning, bran
 
 - No full source access before seller approval.
 - No private GitHub access before payment and license acceptance.
+- Do not post passwords, private keys, API tokens, bank credentials, BVN/NIN values, customer data, or confidential documents in a public GitHub issue.
 - No public redistribution.
 - No resale of the source package.
 - No competing template/starter-kit use.

@@ -1,0 +1,82 @@
+name: Deal Request / Source Access
+description: Request paid access to the private OpenBank NG full-source repository.
+title: "Deal request: "
+labels:
+  - deal-request
+  - buyer-access
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form to request paid source-code access, a commercial license, or implementation discussion.
+
+        Do not share passwords, private keys, API tokens, bank credentials, BVN/NIN values, customer data, or confidential documents in this public issue.
+  - type: input
+    id: buyer_name
+    attributes:
+      label: Buyer or company name
+      description: Provide the company name or buyer name for first review.
+      placeholder: Example: Acme Fintech Ltd
+    validations:
+      required: true
+  - type: input
+    id: market
+    attributes:
+      label: Country or target market
+      placeholder: Example: Nigeria
+    validations:
+      required: true
+  - type: dropdown
+    id: package
+    attributes:
+      label: Package requested
+      options:
+        - Builder License - EUR 5,000
+        - Commercial Launch License - EUR 10,000
+        - Enterprise / Investor-Grade Package - EUR 20,000
+        - Custom discussion
+    validations:
+      required: true
+  - type: textarea
+    id: use_case
+    attributes:
+      label: Intended use case
+      description: Describe what you want to build or evaluate.
+      placeholder: Example: Banking/wallet MVP for a licensed Nigerian fintech operator.
+    validations:
+      required: true
+  - type: textarea
+    id: provider_status
+    attributes:
+      label: Provider and compliance status
+      description: Mention whether you already have a bank sponsor, KYC provider, payment provider, compliance team, or legal review path.
+      placeholder: Example: Paystack/Monnify evaluation in progress; legal review not started.
+    validations:
+      required: true
+  - type: input
+    id: timeline
+    attributes:
+      label: Timeline
+      placeholder: Example: 30-60 days
+    validations:
+      required: true
+  - type: input
+    id: github_target
+    attributes:
+      label: GitHub username or organization for private access
+      description: Only provide the GitHub target. Full access is granted only after payment and license approval.
+      placeholder: Example: github-org-or-username
+    validations:
+      required: false
+  - type: checkboxes
+    id: acknowledgements
+    attributes:
+      label: Acknowledgements
+      options:
+        - label: I understand this preview repo does not include full source code.
+          required: true
+        - label: I understand full source access requires payment confirmation and license acceptance.
+          required: true
+        - label: I understand OpenBank NG is source-code software only, not a banking license or regulated payment approval.
+          required: true
+

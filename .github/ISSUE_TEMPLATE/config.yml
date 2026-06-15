@@ -1,0 +1,6 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Open a deal request
+    url: https://github.com/ejikezebedee/openbank-ng-preview/issues/new?template=deal-request.yml
+    about: Request paid access to the private OpenBank NG full-source repository.
+

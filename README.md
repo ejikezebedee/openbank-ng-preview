@@ -53,7 +53,11 @@ Buyers are responsible for licensing, regulated provider contracts, KYC/AML prov
 
 ## Request Access Or A Deal
 
-Review `sales/DEAL_REQUEST.md` and send:
+Open a structured GitHub deal request:
+
+https://github.com/ejikezebedee/openbank-ng-preview/issues/new?template=deal-request.yml
+
+Review `sales/DEAL_REQUEST.md` first, then submit:
 
 - Company or buyer name.
 - Intended use case.
@@ -67,3 +71,5 @@ Review `sales/DEAL_REQUEST.md` and send:
 ## Full Access Rule
 
 This preview repository is for buyer confidence only. Full source-code access is delivered through the private `openbank-ng` repository only after payment confirmation, license acceptance, approved support scope, and buyer access approval.
+
+Do not post passwords, private keys, API tokens, bank credentials, BVN/NIN values, customer data, or confidential documents in a public GitHub issue.
