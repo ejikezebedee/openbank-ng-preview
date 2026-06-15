@@ -8,7 +8,7 @@ To request full source access or a custom commercial deal, send:
 - Company name.
 - Country/market.
 - Intended product/use case.
-- Package needed: Launch, Pro Source, or Customization.
+- Package needed: Builder License, Commercial Launch License, or Enterprise / Investor-Grade Package.
 - Whether this is for internal use or a client project.
 - Timeline.
 - Budget range.
@@ -17,29 +17,29 @@ To request full source access or a custom commercial deal, send:
 
 ## Recommended Packages
 
-### Launch Package
+### Builder License
 
-Suggested price: $299.
+Suggested price: EUR 5,000.
 
-Best for buyers who want to evaluate and customize the source-code foundation.
+Best for founders, developers, and small teams who want the full source-code foundation for one serious project.
 
-### Pro Source Package
+### Commercial Launch License
 
-Suggested price: $499.
+Suggested price: EUR 10,000.
 
-Best for agencies or operators who need stronger handoff materials and setup clarification.
+Best for agencies, fintech builders, and operators preparing a commercial launch with stronger handoff and setup clarification.
 
-### Commercial Customization
+### Enterprise / Investor-Grade Package
 
-Suggested starting price: $1,000+.
+Suggested price: EUR 20,000.
 
-Best for buyers who need implementation help, branding, deployment preparation, or provider-integration planning.
+Best for buyers who need deeper diligence support, implementation planning, branding preparation, deployment preparation, or provider-integration planning.
 
 ## Deal Rules
 
 - No full source access before seller approval.
+- No private GitHub access before payment and license acceptance.
 - No public redistribution.
 - No resale of the source package.
 - No competing template/starter-kit use.
 - No claim that OpenBank NG includes banking licensing or regulated approval.
-

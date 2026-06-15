@@ -25,7 +25,7 @@ Approved buyers may examine the full code through one of these methods:
 
 - Private GitHub read-only access.
 - Screen-share review.
-- Packaged ZIP after purchase.
+- Validated private ZIP/hash after purchase.
 - Custom diligence review under a separate agreement.
 
 ## What Buyers Should Examine
@@ -40,5 +40,4 @@ Approved buyers may examine the full code through one of these methods:
 
 ## Access Gate
 
-Full code access requires buyer approval, accepted license terms, payment confirmation where applicable, and seller approval.
-
+Full code access requires buyer approval, accepted license terms, payment confirmation, approved support scope, confirmed GitHub invite target, and seller approval.

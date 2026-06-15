@@ -1,6 +1,6 @@
 # OpenBank NG Preview
 
-OpenBank NG is a commercial fullstack Nigerian banking and wallet source-code product for fintech founders, agencies, developers, cooperatives, and licensed financial operators.
+OpenBank NG is a commercial fullstack Nigerian banking and wallet infrastructure foundation for fintech founders, agencies, developers, cooperatives, and licensed financial operators.
 
 ![OpenBank NG product cover](./assets/marketplace/openbank-ng-product-cover.png)
 
@@ -28,8 +28,10 @@ The full source-code repository is private and is only shared after buyer approv
 
 ```text
 assets/marketplace/          Product image
+artifacts/screenshots/       Customer and admin verification screenshots
 docs/PRODUCT_OVERVIEW.md     Product scope and buyer value
 docs/CODE_PREVIEW.md         Architecture and code-examination notes
+docs/GITHUB_BUYER_ACCESS_MODEL.md
 sales/DEAL_REQUEST.md        How to request access or a custom deal
 release/PREVIEW_PACKAGE.md   Public-preview package manifest
 LICENSE.md                   Proprietary all-rights-reserved license
@@ -37,9 +39,9 @@ LICENSE.md                   Proprietary all-rights-reserved license
 
 ## Pricing Recommendation
 
-- Launch Package: $299.
-- Pro Source Package: $499.
-- Commercial Customization: $1,000+ by separate agreement.
+- Builder License: EUR 5,000.
+- Commercial Launch License: EUR 10,000.
+- Enterprise / Investor-Grade Package: EUR 20,000.
 
 Final pricing, license, support, and buyer access are subject to seller approval.
 
@@ -62,3 +64,6 @@ Review `sales/DEAL_REQUEST.md` and send:
 - Budget.
 - Whether custom implementation support is required.
 
+## Full Access Rule
+
+This preview repository is for buyer confidence only. Full source-code access is delivered through the private `openbank-ng` repository only after payment confirmation, license acceptance, approved support scope, and buyer access approval.
